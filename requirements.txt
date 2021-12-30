@@ -1,0 +1,8 @@
+boto3>=1.17.36
+botocore>=1.20.36
+tqdm>=4.46.1
+wordcloud>=1.8.0
+numpy>=1.21.0
+matplotlib>=3.1.1
+flickrapi>=2.4.0
+fasteners>=0.16.3

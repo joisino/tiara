@@ -1,0 +1,12 @@
+*
+
+!.gitignore
+!*.py
+!*.txt
+!*.md
+!*.sh
+!flickr_objects
+!flickr_objects/source
+!flickr_objects/source/flickr_source.jpg
+
+openimage_id.txt
